@@ -1,0 +1,28 @@
+{
+  "name": "pokedex-api",
+  "version": "1.0.0",
+  "description": "API REST de una Pokédex por regiones: Kanto, Johto, Hoenn, Sinnoh y Teselia (Unova).",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "pokedex",
+    "pokemon",
+    "api",
+    "express",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
