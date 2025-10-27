@@ -959,6 +959,1076 @@
         "Tierra"
       ],
       "region": "hoenn"
+    },
+    {
+      "id": 261,
+      "nombre": "Poochyena",
+      "tipos": [
+        "Siniestro"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 262,
+      "nombre": "Mightyena",
+      "tipos": [
+        "Siniestro"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 263,
+      "nombre": "Zigzagoon",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 264,
+      "nombre": "Linoone",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 265,
+      "nombre": "Wurmple",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 266,
+      "nombre": "Silcoon",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 267,
+      "nombre": "Beautifly",
+      "tipos": [
+        "Bicho",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 268,
+      "nombre": "Cascoon",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 269,
+      "nombre": "Dustox",
+      "tipos": [
+        "Bicho",
+        "Veneno"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 270,
+      "nombre": "Lotad",
+      "tipos": [
+        "Agua",
+        "Planta"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 271,
+      "nombre": "Lombre",
+      "tipos": [
+        "Agua",
+        "Planta"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 272,
+      "nombre": "Ludicolo",
+      "tipos": [
+        "Agua",
+        "Planta"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 273,
+      "nombre": "Seedot",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 274,
+      "nombre": "Nuzleaf",
+      "tipos": [
+        "Planta",
+        "Siniestro"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 275,
+      "nombre": "Shiftry",
+      "tipos": [
+        "Planta",
+        "Siniestro"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 276,
+      "nombre": "Taillow",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 277,
+      "nombre": "Swellow",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 278,
+      "nombre": "Wingull",
+      "tipos": [
+        "Agua",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 279,
+      "nombre": "Pelipper",
+      "tipos": [
+        "Agua",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 280,
+      "nombre": "Ralts",
+      "tipos": [
+        "Psíquico",
+        "Hada"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 281,
+      "nombre": "Kirlia",
+      "tipos": [
+        "Psíquico",
+        "Hada"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 282,
+      "nombre": "Gardevoir",
+      "tipos": [
+        "Psíquico",
+        "Hada"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 283,
+      "nombre": "Surskit",
+      "tipos": [
+        "Bicho",
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 284,
+      "nombre": "Masquerain",
+      "tipos": [
+        "Bicho",
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 285,
+      "nombre": "Shroomish",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 286,
+      "nombre": "Breloom",
+      "tipos": [
+        "Planta",
+        "Lucha"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 287,
+      "nombre": "Slakoth",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 288,
+      "nombre": "Vigoroth",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 289,
+      "nombre": "Slaking",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 290,
+      "nombre": "Nincada",
+      "tipos": [
+        "Bicho",
+        "Tierra"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 291,
+      "nombre": "Ninjask",
+      "tipos": [
+        "Bicho",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 292,
+      "nombre": "Shedinja",
+      "tipos": [
+        "Bicho",
+        "Fantasma"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 293,
+      "nombre": "Whismur",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 294,
+      "nombre": "Loudred",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 295,
+      "nombre": "Exploud",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 296,
+      "nombre": "Makuhita",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 297,
+      "nombre": "Hariyama",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 298,
+      "nombre": "Azurill",
+      "tipos": [
+        "Normal",
+        "Hada"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 299,
+      "nombre": "Nosepass",
+      "tipos": [
+        "Roca"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 300,
+      "nombre": "Skitty",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 301,
+      "nombre": "Delcatty",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 302,
+      "nombre": "Sableye",
+      "tipos": [
+        "Siniestro",
+        "Fantasma"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 303,
+      "nombre": "Mawile",
+      "tipos": [
+        "Acero",
+        "Hada"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 304,
+      "nombre": "Aron",
+      "tipos": [
+        "Acero",
+        "Roca"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 305,
+      "nombre": "Lairon",
+      "tipos": [
+        "Acero",
+        "Roca"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 306,
+      "nombre": "Aggron",
+      "tipos": [
+        "Acero",
+        "Roca"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 307,
+      "nombre": "Meditite",
+      "tipos": [
+        "Lucha",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 308,
+      "nombre": "Medicham",
+      "tipos": [
+        "Lucha",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 309,
+      "nombre": "Electrike",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 310,
+      "nombre": "Manectric",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 311,
+      "nombre": "Plusle",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 312,
+      "nombre": "Minun",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 313,
+      "nombre": "Volbeat",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 314,
+      "nombre": "Illumise",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 315,
+      "nombre": "Roselia",
+      "tipos": [
+        "Planta",
+        "Veneno"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 316,
+      "nombre": "Gulpin",
+      "tipos": [
+        "Veneno"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 317,
+      "nombre": "Swalot",
+      "tipos": [
+        "Veneno"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 318,
+      "nombre": "Carvanha",
+      "tipos": [
+        "Agua",
+        "Siniestro"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 319,
+      "nombre": "Sharpedo",
+      "tipos": [
+        "Agua",
+        "Siniestro"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 320,
+      "nombre": "Wailmer",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 321,
+      "nombre": "Wailord",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 322,
+      "nombre": "Numel",
+      "tipos": [
+        "Fuego",
+        "Tierra"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 323,
+      "nombre": "Camerupt",
+      "tipos": [
+        "Fuego",
+        "Tierra"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 324,
+      "nombre": "Torkoal",
+      "tipos": [
+        "Fuego"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 325,
+      "nombre": "Spoink",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 326,
+      "nombre": "Grumpig",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 327,
+      "nombre": "Spinda",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 328,
+      "nombre": "Trapinch",
+      "tipos": [
+        "Tierra"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 329,
+      "nombre": "Vibrava",
+      "tipos": [
+        "Tierra",
+        "Dragón"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 330,
+      "nombre": "Flygon",
+      "tipos": [
+        "Tierra",
+        "Dragón"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 331,
+      "nombre": "Cacnea",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 332,
+      "nombre": "Cacturne",
+      "tipos": [
+        "Planta",
+        "Siniestro"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 333,
+      "nombre": "Swablu",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 334,
+      "nombre": "Altaria",
+      "tipos": [
+        "Dragón",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 335,
+      "nombre": "Zangoose",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 336,
+      "nombre": "Seviper",
+      "tipos": [
+        "Veneno"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 337,
+      "nombre": "Lunatone",
+      "tipos": [
+        "Roca",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 338,
+      "nombre": "Solrock",
+      "tipos": [
+        "Roca",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 339,
+      "nombre": "Barboach",
+      "tipos": [
+        "Agua",
+        "Tierra"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 340,
+      "nombre": "Whiscash",
+      "tipos": [
+        "Agua",
+        "Tierra"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 341,
+      "nombre": "Corphish",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 342,
+      "nombre": "Crawdaunt",
+      "tipos": [
+        "Agua",
+        "Siniestro"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 343,
+      "nombre": "Baltoy",
+      "tipos": [
+        "Tierra",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 344,
+      "nombre": "Claydol",
+      "tipos": [
+        "Tierra",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 345,
+      "nombre": "Lileep",
+      "tipos": [
+        "Roca",
+        "Planta"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 346,
+      "nombre": "Cradily",
+      "tipos": [
+        "Roca",
+        "Planta"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 347,
+      "nombre": "Anorith",
+      "tipos": [
+        "Roca",
+        "Bicho"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 348,
+      "nombre": "Armaldo",
+      "tipos": [
+        "Roca",
+        "Bicho"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 349,
+      "nombre": "Feebas",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 350,
+      "nombre": "Milotic",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 351,
+      "nombre": "Castform",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 352,
+      "nombre": "Kecleon",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 353,
+      "nombre": "Shuppet",
+      "tipos": [
+        "Fantasma"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 354,
+      "nombre": "Banette",
+      "tipos": [
+        "Fantasma"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 355,
+      "nombre": "Duskull",
+      "tipos": [
+        "Fantasma"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 356,
+      "nombre": "Dusclops",
+      "tipos": [
+        "Fantasma"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 357,
+      "nombre": "Tropius",
+      "tipos": [
+        "Planta",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 358,
+      "nombre": "Chimecho",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 359,
+      "nombre": "Absol",
+      "tipos": [
+        "Siniestro"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 360,
+      "nombre": "Wynaut",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 361,
+      "nombre": "Snorunt",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 362,
+      "nombre": "Glalie",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 363,
+      "nombre": "Spheal",
+      "tipos": [
+        "Hielo",
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 364,
+      "nombre": "Sealeo",
+      "tipos": [
+        "Hielo",
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 365,
+      "nombre": "Walrein",
+      "tipos": [
+        "Hielo",
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 366,
+      "nombre": "Clamperl",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 367,
+      "nombre": "Huntail",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 368,
+      "nombre": "Gorebyss",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 369,
+      "nombre": "Relicanth",
+      "tipos": [
+        "Agua",
+        "Roca"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 370,
+      "nombre": "Luvdisc",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 371,
+      "nombre": "Bagon",
+      "tipos": [
+        "Dragón"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 372,
+      "nombre": "Shelgon",
+      "tipos": [
+        "Dragón"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 373,
+      "nombre": "Salamence",
+      "tipos": [
+        "Dragón",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 374,
+      "nombre": "Beldum",
+      "tipos": [
+        "Acero",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 375,
+      "nombre": "Metang",
+      "tipos": [
+        "Acero",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 376,
+      "nombre": "Metagross",
+      "tipos": [
+        "Acero",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 377,
+      "nombre": "Regirock",
+      "tipos": [
+        "Roca"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 378,
+      "nombre": "Regice",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 379,
+      "nombre": "Registeel",
+      "tipos": [
+        "Acero"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 380,
+      "nombre": "Kyogre",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 381,
+      "nombre": "Groudon",
+      "tipos": [
+        "Tierra"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 382,
+      "nombre": "Rayquaza",
+      "tipos": [
+        "Dragón",
+        "Volador"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 383,
+      "nombre": "Latias",
+      "tipos": [
+        "Dragón",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 384,
+      "nombre": "Latios",
+      "tipos": [
+        "Dragón",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 385,
+      "nombre": "Jirachi",
+      "tipos": [
+        "Acero",
+        "Psíquico"
+      ],
+      "region": "hoenn"
+    },
+    {
+      "id": 386,
+      "nombre": "Deoxys",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "hoenn"
     }
   ],
   "sinnoh": [
@@ -1037,6 +2107,839 @@
         "Acero"
       ],
       "region": "sinnoh"
+    },
+    {
+      "id": 396,
+      "nombre": "Starly",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 397,
+      "nombre": "Staravia",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 398,
+      "nombre": "Staraptor",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 399,
+      "nombre": "Bidoof",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 400,
+      "nombre": "Bibarel",
+      "tipos": [
+        "Normal",
+        "Agua"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 401,
+      "nombre": "Kricketot",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 402,
+      "nombre": "Kricketune",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 403,
+      "nombre": "Shinx",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 404,
+      "nombre": "Luxio",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 405,
+      "nombre": "Luxray",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 406,
+      "nombre": "Budew",
+      "tipos": [
+        "Planta",
+        "Veneno"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 407,
+      "nombre": "Roserade",
+      "tipos": [
+        "Planta",
+        "Veneno"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 408,
+      "nombre": "Cranidos",
+      "tipos": [
+        "Roca"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 409,
+      "nombre": "Rampardos",
+      "tipos": [
+        "Roca"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 410,
+      "nombre": "Shieldon",
+      "tipos": [
+        "Roca",
+        "Acero"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 411,
+      "nombre": "Bastiodon",
+      "tipos": [
+        "Roca",
+        "Acero"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 412,
+      "nombre": "Burmy",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 413,
+      "nombre": "Wormadam",
+      "tipos": [
+        "Bicho",
+        "Planta"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 414,
+      "nombre": "Mothim",
+      "tipos": [
+        "Bicho",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 415,
+      "nombre": "Combee",
+      "tipos": [
+        "Bicho",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 416,
+      "nombre": "Vespiquen",
+      "tipos": [
+        "Bicho",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 417,
+      "nombre": "Pachirisu",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 418,
+      "nombre": "Buizel",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 419,
+      "nombre": "Floatzel",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 420,
+      "nombre": "Cherubi",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 421,
+      "nombre": "Cherrim",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 422,
+      "nombre": "Shellos",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 423,
+      "nombre": "Gastrodon",
+      "tipos": [
+        "Agua",
+        "Tierra"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 424,
+      "nombre": "Ambipom",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 425,
+      "nombre": "Drifloon",
+      "tipos": [
+        "Fantasma",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 426,
+      "nombre": "Drifblim",
+      "tipos": [
+        "Fantasma",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 427,
+      "nombre": "Buneary",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 428,
+      "nombre": "Lopunny",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 429,
+      "nombre": "Mismagius",
+      "tipos": [
+        "Fantasma"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 430,
+      "nombre": "Honchkrow",
+      "tipos": [
+        "Siniestro",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 431,
+      "nombre": "Glameow",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 432,
+      "nombre": "Purugly",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 433,
+      "nombre": "Chingling",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 434,
+      "nombre": "Stunky",
+      "tipos": [
+        "Veneno",
+        "Siniestro"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 435,
+      "nombre": "Skuntank",
+      "tipos": [
+        "Veneno",
+        "Siniestro"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 436,
+      "nombre": "Bronzor",
+      "tipos": [
+        "Acero",
+        "Psíquico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 437,
+      "nombre": "Bronzong",
+      "tipos": [
+        "Acero",
+        "Psíquico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 438,
+      "nombre": "Bonsly",
+      "tipos": [
+        "Roca"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 439,
+      "nombre": "Mime Jr.",
+      "tipos": [
+        "Psíquico",
+        "Hada"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 440,
+      "nombre": "Happiny",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 441,
+      "nombre": "Chatot",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 442,
+      "nombre": "Spiritomb",
+      "tipos": [
+        "Fantasma",
+        "Siniestro"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 443,
+      "nombre": "Gible",
+      "tipos": [
+        "Dragón",
+        "Tierra"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 444,
+      "nombre": "Gabite",
+      "tipos": [
+        "Dragón",
+        "Tierra"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 445,
+      "nombre": "Garchomp",
+      "tipos": [
+        "Dragón",
+        "Tierra"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 446,
+      "nombre": "Munchlax",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 447,
+      "nombre": "Riolu",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 448,
+      "nombre": "Lucario",
+      "tipos": [
+        "Lucha",
+        "Acero"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 449,
+      "nombre": "Hippopotas",
+      "tipos": [
+        "Tierra"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 450,
+      "nombre": "Hippowdon",
+      "tipos": [
+        "Tierra"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 451,
+      "nombre": "Skorupi",
+      "tipos": [
+        "Veneno",
+        "Bicho"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 452,
+      "nombre": "Drapion",
+      "tipos": [
+        "Veneno",
+        "Siniestro"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 453,
+      "nombre": "Croagunk",
+      "tipos": [
+        "Veneno",
+        "Lucha"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 454,
+      "nombre": "Toxicroak",
+      "tipos": [
+        "Veneno",
+        "Lucha"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 455,
+      "nombre": "Carnivine",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 456,
+      "nombre": "Finneon",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 457,
+      "nombre": "Lumineon",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 458,
+      "nombre": "Mantyke",
+      "tipos": [
+        "Agua",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 459,
+      "nombre": "Snover",
+      "tipos": [
+        "Planta",
+        "Hielo"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 460,
+      "nombre": "Abomasnow",
+      "tipos": [
+        "Planta",
+        "Hielo"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 461,
+      "nombre": "Weavile",
+      "tipos": [
+        "Siniestro",
+        "Hielo"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 462,
+      "nombre": "Magnezone",
+      "tipos": [
+        "Eléctrico",
+        "Acero"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 463,
+      "nombre": "Lickilicky",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 464,
+      "nombre": "Rhyperior",
+      "tipos": [
+        "Tierra",
+        "Roca"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 465,
+      "nombre": "Tangrowth",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 466,
+      "nombre": "Electivire",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 467,
+      "nombre": "Magmortar",
+      "tipos": [
+        "Fuego"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 468,
+      "nombre": "Togekiss",
+      "tipos": [
+        "Hada",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 469,
+      "nombre": "Yanmega",
+      "tipos": [
+        "Bicho",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 470,
+      "nombre": "Leafeon",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 471,
+      "nombre": "Glaceon",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 472,
+      "nombre": "Gliscor",
+      "tipos": [
+        "Tierra",
+        "Volador"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 473,
+      "nombre": "Mamoswine",
+      "tipos": [
+        "Hielo",
+        "Tierra"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 474,
+      "nombre": "Porygon-Z",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 475,
+      "nombre": "Gallade",
+      "tipos": [
+        "Psíquico",
+        "Lucha"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 476,
+      "nombre": "Probopass",
+      "tipos": [
+        "Roca",
+        "Acero"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 477,
+      "nombre": "Dusknoir",
+      "tipos": [
+        "Fantasma"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 478,
+      "nombre": "Froslass",
+      "tipos": [
+        "Hielo",
+        "Fantasma"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 479,
+      "nombre": "Rotom",
+      "tipos": [
+        "Eléctrico",
+        "Fantasma"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 480,
+      "nombre": "Uxie",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 481,
+      "nombre": "Mesprit",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 482,
+      "nombre": "Azelf",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 483,
+      "nombre": "Dialga",
+      "tipos": [
+        "Acero",
+        "Dragón"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 484,
+      "nombre": "Palkia",
+      "tipos": [
+        "Agua",
+        "Dragón"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 485,
+      "nombre": "Heatran",
+      "tipos": [
+        "Fuego",
+        "Acero"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 486,
+      "nombre": "Regigigas",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 487,
+      "nombre": "Giratina",
+      "tipos": [
+        "Fantasma",
+        "Dragón"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 488,
+      "nombre": "Cresselia",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 489,
+      "nombre": "Phione",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 490,
+      "nombre": "Manaphy",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 491,
+      "nombre": "Darkrai",
+      "tipos": [
+        "Siniestro"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 492,
+      "nombre": "Shaymin",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "sinnoh"
+    },
+    {
+      "id": 493,
+      "nombre": "Arceus",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "sinnoh"
     }
   ],
   "teselia": [
@@ -1111,6 +3014,1254 @@
       "nombre": "Samurott",
       "tipos": [
         "Agua"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 504,
+      "nombre": "Patrat",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 505,
+      "nombre": "Watchog",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 506,
+      "nombre": "Lillipup",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 507,
+      "nombre": "Herdier",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 508,
+      "nombre": "Stoutland",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 509,
+      "nombre": "Purrloin",
+      "tipos": [
+        "Siniestro"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 510,
+      "nombre": "Liepard",
+      "tipos": [
+        "Siniestro"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 511,
+      "nombre": "Pansage",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 512,
+      "nombre": "Simisage",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 513,
+      "nombre": "Pansear",
+      "tipos": [
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 514,
+      "nombre": "Simisear",
+      "tipos": [
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 515,
+      "nombre": "Panpour",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 516,
+      "nombre": "Simipour",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 517,
+      "nombre": "Munna",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 518,
+      "nombre": "Musharna",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 519,
+      "nombre": "Pidove",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 520,
+      "nombre": "Tranquill",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 521,
+      "nombre": "Unfezant",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 522,
+      "nombre": "Blitzle",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 523,
+      "nombre": "Zebstrika",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 524,
+      "nombre": "Roggenrola",
+      "tipos": [
+        "Roca"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 525,
+      "nombre": "Boldore",
+      "tipos": [
+        "Roca"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 526,
+      "nombre": "Gigalith",
+      "tipos": [
+        "Roca"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 527,
+      "nombre": "Woobat",
+      "tipos": [
+        "Psíquico",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 528,
+      "nombre": "Swoobat",
+      "tipos": [
+        "Psíquico",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 529,
+      "nombre": "Drilbur",
+      "tipos": [
+        "Tierra"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 530,
+      "nombre": "Excadrill",
+      "tipos": [
+        "Tierra",
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 531,
+      "nombre": "Audino",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 532,
+      "nombre": "Timburr",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 533,
+      "nombre": "Gurdurr",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 534,
+      "nombre": "Conkeldurr",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 535,
+      "nombre": "Tympole",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 536,
+      "nombre": "Palpitoad",
+      "tipos": [
+        "Agua",
+        "Tierra"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 537,
+      "nombre": "Seismitoad",
+      "tipos": [
+        "Agua",
+        "Tierra"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 538,
+      "nombre": "Throh",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 539,
+      "nombre": "Sawk",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 540,
+      "nombre": "Sewaddle",
+      "tipos": [
+        "Bicho",
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 541,
+      "nombre": "Swadloon",
+      "tipos": [
+        "Bicho",
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 542,
+      "nombre": "Leavanny",
+      "tipos": [
+        "Bicho",
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 543,
+      "nombre": "Venipede",
+      "tipos": [
+        "Bicho",
+        "Veneno"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 544,
+      "nombre": "Whirlipede",
+      "tipos": [
+        "Bicho",
+        "Veneno"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 545,
+      "nombre": "Scolipede",
+      "tipos": [
+        "Bicho",
+        "Veneno"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 546,
+      "nombre": "Cottonee",
+      "tipos": [
+        "Planta",
+        "Hada"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 547,
+      "nombre": "Whimsicott",
+      "tipos": [
+        "Planta",
+        "Hada"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 548,
+      "nombre": "Petilil",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 549,
+      "nombre": "Lilligant",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 550,
+      "nombre": "Basculin",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 551,
+      "nombre": "Sandile",
+      "tipos": [
+        "Tierra",
+        "Siniestro"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 552,
+      "nombre": "Krokorok",
+      "tipos": [
+        "Tierra",
+        "Siniestro"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 553,
+      "nombre": "Krookodile",
+      "tipos": [
+        "Tierra",
+        "Siniestro"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 554,
+      "nombre": "Darumaka",
+      "tipos": [
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 555,
+      "nombre": "Darmanitan",
+      "tipos": [
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 556,
+      "nombre": "Maractus",
+      "tipos": [
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 557,
+      "nombre": "Dwebble",
+      "tipos": [
+        "Bicho",
+        "Roca"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 558,
+      "nombre": "Crustle",
+      "tipos": [
+        "Bicho",
+        "Roca"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 559,
+      "nombre": "Scraggy",
+      "tipos": [
+        "Siniestro",
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 560,
+      "nombre": "Scrafty",
+      "tipos": [
+        "Siniestro",
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 561,
+      "nombre": "Sigilyph",
+      "tipos": [
+        "Psíquico",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 562,
+      "nombre": "Yamask",
+      "tipos": [
+        "Fantasma"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 563,
+      "nombre": "Cofagrigus",
+      "tipos": [
+        "Fantasma"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 564,
+      "nombre": "Tirtouga",
+      "tipos": [
+        "Agua",
+        "Roca"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 565,
+      "nombre": "Carracosta",
+      "tipos": [
+        "Agua",
+        "Roca"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 566,
+      "nombre": "Archen",
+      "tipos": [
+        "Roca",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 567,
+      "nombre": "Archeops",
+      "tipos": [
+        "Roca",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 568,
+      "nombre": "Trubbish",
+      "tipos": [
+        "Veneno"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 569,
+      "nombre": "Garbodor",
+      "tipos": [
+        "Veneno"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 570,
+      "nombre": "Zorua",
+      "tipos": [
+        "Siniestro"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 571,
+      "nombre": "Zoroark",
+      "tipos": [
+        "Siniestro"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 572,
+      "nombre": "Minccino",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 573,
+      "nombre": "Cinccino",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 574,
+      "nombre": "Gothita",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 575,
+      "nombre": "Gothorita",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 576,
+      "nombre": "Gothitelle",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 577,
+      "nombre": "Solosis",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 578,
+      "nombre": "Duosion",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 579,
+      "nombre": "Reuniclus",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 580,
+      "nombre": "Ducklett",
+      "tipos": [
+        "Agua",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 581,
+      "nombre": "Swanna",
+      "tipos": [
+        "Agua",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 582,
+      "nombre": "Vanillite",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 583,
+      "nombre": "Vanillish",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 584,
+      "nombre": "Vanilluxe",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 585,
+      "nombre": "Deerling",
+      "tipos": [
+        "Normal",
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 586,
+      "nombre": "Sawsbuck",
+      "tipos": [
+        "Normal",
+        "Planta"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 587,
+      "nombre": "Emolga",
+      "tipos": [
+        "Eléctrico",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 588,
+      "nombre": "Karrablast",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 589,
+      "nombre": "Escavalier",
+      "tipos": [
+        "Bicho",
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 590,
+      "nombre": "Foongus",
+      "tipos": [
+        "Planta",
+        "Veneno"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 591,
+      "nombre": "Amoonguss",
+      "tipos": [
+        "Planta",
+        "Veneno"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 592,
+      "nombre": "Frillish",
+      "tipos": [
+        "Agua",
+        "Fantasma"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 593,
+      "nombre": "Jellicent",
+      "tipos": [
+        "Agua",
+        "Fantasma"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 594,
+      "nombre": "Alomomola",
+      "tipos": [
+        "Agua"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 595,
+      "nombre": "Joltik",
+      "tipos": [
+        "Bicho",
+        "Eléctrico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 596,
+      "nombre": "Galvantula",
+      "tipos": [
+        "Bicho",
+        "Eléctrico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 597,
+      "nombre": "Ferroseed",
+      "tipos": [
+        "Planta",
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 598,
+      "nombre": "Ferrothorn",
+      "tipos": [
+        "Planta",
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 599,
+      "nombre": "Klink",
+      "tipos": [
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 600,
+      "nombre": "Klang",
+      "tipos": [
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 601,
+      "nombre": "Klinklang",
+      "tipos": [
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 602,
+      "nombre": "Tynamo",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 603,
+      "nombre": "Eelektrik",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 604,
+      "nombre": "Eelektross",
+      "tipos": [
+        "Eléctrico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 605,
+      "nombre": "Elgyem",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 606,
+      "nombre": "Beheeyem",
+      "tipos": [
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 607,
+      "nombre": "Litwick",
+      "tipos": [
+        "Fantasma",
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 608,
+      "nombre": "Lampent",
+      "tipos": [
+        "Fantasma",
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 609,
+      "nombre": "Chandelure",
+      "tipos": [
+        "Fantasma",
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 610,
+      "nombre": "Axew",
+      "tipos": [
+        "Dragón"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 611,
+      "nombre": "Fraxure",
+      "tipos": [
+        "Dragón"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 612,
+      "nombre": "Haxorus",
+      "tipos": [
+        "Dragón"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 613,
+      "nombre": "Cubchoo",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 614,
+      "nombre": "Beartic",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 615,
+      "nombre": "Cryogonal",
+      "tipos": [
+        "Hielo"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 616,
+      "nombre": "Shelmet",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 617,
+      "nombre": "Accelgor",
+      "tipos": [
+        "Bicho"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 618,
+      "nombre": "Stunfisk",
+      "tipos": [
+        "Tierra",
+        "Eléctrico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 619,
+      "nombre": "Mienfoo",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 620,
+      "nombre": "Mienshao",
+      "tipos": [
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 621,
+      "nombre": "Druddigon",
+      "tipos": [
+        "Dragón"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 622,
+      "nombre": "Golett",
+      "tipos": [
+        "Tierra",
+        "Fantasma"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 623,
+      "nombre": "Golurk",
+      "tipos": [
+        "Tierra",
+        "Fantasma"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 624,
+      "nombre": "Pawniard",
+      "tipos": [
+        "Siniestro",
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 625,
+      "nombre": "Bisharp",
+      "tipos": [
+        "Siniestro",
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 626,
+      "nombre": "Bouffalant",
+      "tipos": [
+        "Normal"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 627,
+      "nombre": "Rufflet",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 628,
+      "nombre": "Braviary",
+      "tipos": [
+        "Normal",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 629,
+      "nombre": "Vullaby",
+      "tipos": [
+        "Siniestro",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 630,
+      "nombre": "Mandibuzz",
+      "tipos": [
+        "Siniestro",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 631,
+      "nombre": "Heatmor",
+      "tipos": [
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 632,
+      "nombre": "Durant",
+      "tipos": [
+        "Bicho",
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 633,
+      "nombre": "Deino",
+      "tipos": [
+        "Siniestro",
+        "Dragón"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 634,
+      "nombre": "Zweilous",
+      "tipos": [
+        "Siniestro",
+        "Dragón"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 635,
+      "nombre": "Hydreigon",
+      "tipos": [
+        "Siniestro",
+        "Dragón"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 636,
+      "nombre": "Larvesta",
+      "tipos": [
+        "Bicho",
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 637,
+      "nombre": "Volcarona",
+      "tipos": [
+        "Bicho",
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 638,
+      "nombre": "Cobalion",
+      "tipos": [
+        "Acero",
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 639,
+      "nombre": "Terrakion",
+      "tipos": [
+        "Roca",
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 640,
+      "nombre": "Virizion",
+      "tipos": [
+        "Planta",
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 641,
+      "nombre": "Tornadus",
+      "tipos": [
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 642,
+      "nombre": "Thundurus",
+      "tipos": [
+        "Eléctrico",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 643,
+      "nombre": "Reshiram",
+      "tipos": [
+        "Dragón",
+        "Fuego"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 644,
+      "nombre": "Zekrom",
+      "tipos": [
+        "Dragón",
+        "Eléctrico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 645,
+      "nombre": "Landorus",
+      "tipos": [
+        "Tierra",
+        "Volador"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 646,
+      "nombre": "Kyurem",
+      "tipos": [
+        "Dragón",
+        "Hielo"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 647,
+      "nombre": "Keldeo",
+      "tipos": [
+        "Agua",
+        "Lucha"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 648,
+      "nombre": "Meloetta",
+      "tipos": [
+        "Normal",
+        "Psíquico"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 649,
+      "nombre": "Genesect",
+      "tipos": [
+        "Bicho",
+        "Acero"
+      ],
+      "region": "teselia"
+    },
+    {
+      "id": 650,
+      "nombre": "Victini",
+      "tipos": [
+        "Psíquico",
+        "Fuego"
       ],
       "region": "teselia"
     }
